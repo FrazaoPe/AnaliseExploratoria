@@ -28,14 +28,14 @@ menor observação do conjunto de dados.
 
 ## Idade
 A seguir, o histograma das idades:
-![Histograma das idades](Rplot01.png)
+![Histograma das idades](figuras/Rplot01.png)
 
 Nota-se uma leve simetria na distribuição, o que nos faz pensar que a média
 das idades esteja entre 50 e 60 anos.
 
 ## Anos de prisão
 A seguir, o boxplot dos anos de prisão
-![Boxplot anos de prisão](Rplot02.png)
+![Boxplot anos de prisão](figuras/Rplot02.png)
 
 Nota-se que a mediana está centralizada no centro do intervalo interquartílico,
 o que nos leva a concluir que a distribuição dos anos de prisão é simétrica.
@@ -44,7 +44,7 @@ perpétua.
 
 ## Score de periculosidade
 A seguir, o boxplot do score de periculosidade por escolaridade
-![Periculosidade X Escolaridade](Rplot03.png)
+![Periculosidade X Escolaridade](figuras/Rplot03.png)
 
 Nota-se que os 3 boxplots são parecidos, o que nos leva a pensar que não existe
 associação entre essas duas variáveis.
@@ -52,7 +52,7 @@ associação entre essas duas variáveis.
 ## Contagem de criminosos reincidentes
 A seguir, o gráfico de barras que informa a quantidade de criminosos na
 penitênciária que foram presos novamente:
-![Periculosidade X Escolaridade](Rplot04.png)
+![Periculosidade X Escolaridade](figuras/Rplot04.png)
 
 ## Resumos descritivos
 A seguir, resumos descritivos das variáveis idade, tempo de prisão e score de
@@ -71,7 +71,7 @@ periculosidade.
 ## Tempo de prisão e Score de periculosidade
 A seguir, o gráfico de dispersão entre e o tempo de prisão e o Score de
 periculosidade
-![Tempo de Prisão X Score](Rplot05.png)
+![Tempo de Prisão X Score](figuras/Rplot05.png)
 
 Claramente há indícios de associação linear positiva entre estas variáveis.
 O coeficiente de correlação estimado foi 0,8.
